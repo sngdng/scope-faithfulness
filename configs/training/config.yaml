@@ -1,0 +1,6 @@
+defaults:
+  - base_train
+  - model: llama7b
+  - peft: full
+  - data: totto
+  - optim: pref_llama

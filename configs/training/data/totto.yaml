@@ -1,0 +1,6 @@
+dataset_mixer:
+  totto: 1.0
+dataset_splits:
+  - train
+  - validation
+preprocessing_num_workers: 8

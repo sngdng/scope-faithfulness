@@ -1,0 +1,13 @@
+defaults:
+- base_gen
+- model: null
+- data: null
+- eval: base_eval
+- model@noise: null
+- generation: llama
+
+task: null
+evaluation_metrics:
+  - sacrebleu
+  - parent-table
+  - mnli
