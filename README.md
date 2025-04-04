@@ -8,6 +8,12 @@
     <img src="imgs/scope.png" width="80%"> <br>
 </p>
 
+## ✨ (04/04 Update) SCOPE unfaithful decoding version available!
+
+If you are interested in the way SCOPE generates the *unfaithful samples*,
+
+👉 Check out this [lightweight repo](https://github.com/flbbb/scope-decoding) (**<200 lines of code**):
+
 # Installation
 
 To install the code run `pip install -e .` in the root directory.
