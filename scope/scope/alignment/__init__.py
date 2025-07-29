@@ -7,6 +7,7 @@ from .configs import (
     SFTConfig,
     TrainConfig,
 )
+from .data import get_datasets
 from .model_utils import (
     get_kbit_device_map,
     get_peft_config,
